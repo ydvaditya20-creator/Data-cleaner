@@ -1,0 +1,6 @@
+{
+  "name": "DataPrep Studio - Spreadsheet Cleaning & Automation",
+  "description": "An interactive spreadsheet data cleaning and tabular transformation studio that splits raw pasted text into tables, records customizable cleaning recipe scripts, and enables 1-click automated batch cleaning by downloading and loading reusable script lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
